@@ -6,7 +6,7 @@
     <string name="signup_title">Sign up</string>
 
     <!--Welcome messages-->
-    <string name="splash_welcome_txt">Easiest way to\nfind the best product</string>
+    <string name="splash_welcome_txt">The key to happiness is to \nlogin to life as a guest and \nnot as an administration</string>
     <string name="login_welcome_txt">Hello there !\nWelcome Back</string>
     <string name="signup_welcome_txt">Hello there !\nWelcome to you</string>
 
